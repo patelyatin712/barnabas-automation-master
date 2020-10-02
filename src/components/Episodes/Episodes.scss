@@ -1,0 +1,15 @@
+.carousel-slid {
+  border-radius: 10px !important;
+}
+
+.carousel-indicators li {
+  height: 10px !important;
+  width: 10px !important;
+  border-radius: 50% !important;
+  margin: 0.5rem !important;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5% !important;
+}

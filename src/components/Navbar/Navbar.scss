@@ -1,0 +1,24 @@
+@import '../../styles/variable';
+
+.site-header {
+  background-color: $primary-color;
+  height: 5rem;
+
+  .navbar-brand {
+    height: 4.5rem;
+
+    .logo-container {
+      height: 100%;
+      width: auto;
+    }
+  }
+
+  .nav-item {
+    padding: 0 1.2rem;
+    font-size: 1.2rem;
+    font-weight: 300;
+    a {
+      color: $text-white;
+    }
+  }
+}
