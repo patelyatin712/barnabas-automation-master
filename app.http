@@ -1,0 +1,5 @@
+### TO WORK WITH "APP.HTTP" FILE YOU HAVE TO INSTALL "REST CLIENT" EXTENSION TO YOUR "VS CODE"  ###
+
+###
+POST https://u84g6plpn8.execute-api.us-west-1.amazonaws.com/episodes/search
+content-type: application/json
